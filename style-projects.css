@@ -1,0 +1,29 @@
+.firstsection {
+    display: flex;
+    justify-content: space-around;
+    margin: 80px 90px;
+    height: auto;
+    padding: 20px 0px;
+    border: 2px solid black;
+}
+.leftsection .buttons .btn {
+    border: 2px solid #007deb;
+    padding: 7px;
+    font-size: 20px;
+    border-radius: 6px;
+    background-color: white;
+    color: #007deb;
+
+}
+.leftsection{
+    text-align: center;
+}
+.leftsection .buttons .btn a{
+    text-decoration: none;
+
+}
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}

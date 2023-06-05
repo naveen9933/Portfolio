@@ -1,0 +1,67 @@
+.firstsection {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+}
+
+.name {
+    margin-top: 10%;
+}
+
+.leftsection {
+    width: 45%;
+    font-size: 45px;
+    text-align: center;
+    align-items: center;
+}
+
+.leftsection .buttons .btn {
+    border: 2px solid #007deb;
+    padding: 7px;
+    font-size: 20px;
+    border-radius: 6px;
+    background-color: white;
+    color: #007deb;
+
+}
+.leftsection .buttons .btn a{
+    text-decoration: none;
+
+}
+
+.leftsection .buttons :hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.rightsection img {
+    width: 300px;
+    margin: 20px;
+}
+
+main hr {
+    border: 0px;
+    background-color: #007deb;
+    height: 2px;
+    margin: 40px 84px;
+}
+
+.fan {
+    color: #007deb;
+}
+
+.intro {
+    font-size: 20px;
+    margin: 50px 50px 10px 90px;
+}
+
+.h1 {
+    color: #007deb;
+}
+
+.secondsection {
+    margin: 10px;
+    margin-bottom: 80px;
+
+}

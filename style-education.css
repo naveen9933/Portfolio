@@ -1,0 +1,30 @@
+main {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.college {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 70px;
+    padding-bottom: 70px;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+    border: 2px solid black;
+    width: auto;
+    font-size: 20px;
+}
+
+.college .div {
+    display: flex;
+}
+
+.college img {
+    width: 500px;
+    padding: 30px 30px;
+}
+
+.college .rightsection {
+    margin: 10% 0%;
+}
